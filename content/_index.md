@@ -6,7 +6,7 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    title: Vincent Demo
+    title: Vincent Demoasdsadsa
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. e123
